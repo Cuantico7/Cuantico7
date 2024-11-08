@@ -1,0 +1,18 @@
+# 💫 About Me:
+Aquí tienes un ejemplo de sección "Sobre mí" para tu README en GitHub. Este texto busca transmitir profesionalismo, tu experiencia en desarrollo móvil y web, y tu entusiasmo por aprender:<br><br>---<br><br># Sobre mí<br><br>¡Hola! 👋 Soy [Tu Nombre], desarrollador de software enfocado en aplicaciones móviles y web. Actualmente, me desempeño como desarrollador junior, pero mi curiosidad y pasión por el aprendizaje me impulsan a crecer constantemente en el campo de la tecnología.<br><br>Mis habilidades incluyen:<br><br>- **Desarrollo móvil y web:** Con experiencia en HTML, CSS, JavaScript y frameworks como React para el desarrollo frontend, así como el uso de Java y Spring para proyectos backend.<br>- **Experiencia en Git y GitHub:** Trabajo de manera organizada y colaborativa, aplicando prácticas de control de versiones y gestión de proyectos.<br>- **Metodologías ágiles:** He trabajado en proyectos aplicando principios de metodologías ágiles, como la metodología de las 12 semanas, que implemento para alcanzar mis metas de desarrollo y crecimiento profesional.<br><br>Estoy comprometido en crear soluciones de calidad que sean tanto intuitivas para los usuarios como eficientes en su funcionamiento. Siempre estoy abierto a colaborar y aprender de otros profesionales, ya sea en proyectos de código abierto o en entornos de equipo.<br><br>---<br><br>Si quieres adaptar el mensaje, puedo hacer ajustes según tus objetivos o experiencias específicas.
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/fernando-velez-carmona) 
+
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Cuantico7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Cuantico7&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cuantico7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Cuantico7&icon=4&color=3)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
