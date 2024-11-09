@@ -13,12 +13,13 @@ Soy un desarrollador **móvil y web** apasionado por la tecnología y siempre en
 - 🎮 **Aficiones:** Cuando no estoy programando, me gusta jugar videojuegos, disfrutar del baloncesto, una ida a la playa o pensar en ideas para desarrollar nuevas aplicaciones 🤖.
 
 📫 **Cómo contactarme:** Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/fernando-velez-carmona).
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:fernandovelezc7@gmail.com) 
 
 ---
 
 ## 🌐 Redes Sociales
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-velez-carmona) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:fernandovelezc7@gmail.com) 
+
 ---
 
 ## 💻 Tech Stack
