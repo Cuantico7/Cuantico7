@@ -12,7 +12,7 @@ Soy un desarrollador **móvil y web** apasionado por la tecnología y siempre en
 - 🌱 Estoy **aprendiendo análisis de datos y ciberseguridad** para complementar mis habilidades técnicas y comprender mejor la seguridad y el manejo de información en el desarrollo de aplicaciones.
 - 🎮 **Aficiones:** Cuando no estoy programando, me gusta jugar videojuegos, disfrutar del baloncesto, una ida a la playa o pensar en ideas para desarrollar nuevas aplicaciones 🤖.
 
-📫 **Cómo contactarme:** Puedes encontrarme en [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:fernandovelezc7@gmail.com) [LinkedIn](https://www.linkedin.com/in/fernando-velez-carmona).
+📫 **Cómo contactarme:** Puedes encontrarme en [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:fernandovelezc7@gmail.com) 
 
 ---
 
