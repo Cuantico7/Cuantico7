@@ -37,4 +37,3 @@ Soy un desarrollador **móvil y web** apasionado por la tecnología y siempre en
 
 ---
 
-Esta estructura organiza la información en secciones con títulos y párrafos para una presentación limpia y profesional.
