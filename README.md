@@ -1,4 +1,4 @@
-<div style="background-image: url('fondo git.jpg'); background-size: cover; padding: 20px; text-align: center; color: white;">
+<div style="background-image: url('fondo git.jfif'); background-size: cover; padding: 20px; text-align: center; color: white;">
     <h1>Hola, mundo 👋 Soy Fernando 👨‍💻</h1>
     <p>Soy un desarrollador móvil y web apasionado por la tecnología y siempre en búsqueda de aprender y mejorar mis habilidades.</p>
 </div>
