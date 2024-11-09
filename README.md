@@ -1,4 +1,3 @@
-Aquí tienes tu README reestructurado y formateado con títulos claros y un diseño en párrafos para facilitar la lectura:
 
 ---
 
